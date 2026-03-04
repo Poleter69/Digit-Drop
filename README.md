@@ -42,21 +42,6 @@ Switch live via the color dots in the header:
 
 ---
 
-## Install as an App (PWA)
-
-**Android (Chrome):**
-1. Open the live URL in Chrome
-2. Tap the 3-dot menu → **"Add to Home Screen"**
-3. Done — launches fullscreen like a native app
-
-**iPhone (Safari):**
-1. Open the live URL in Safari
-2. Tap the Share button → **"Add to Home Screen"**
-
-Works offline after first visit thanks to the built-in service worker.
-
----
-
 ## Deploy to GitHub Pages
 
 ### 1. Fork or clone this repo
