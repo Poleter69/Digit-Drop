@@ -55,7 +55,7 @@ cd digit-drop
 
 ```
 digit-drop/
-├── index.html        ← rename digitdrop.html to this
+├── index.html       
 ├── manifest.json
 ├── README.md
 └── .github/
